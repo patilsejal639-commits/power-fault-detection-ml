@@ -142,6 +142,16 @@ The confusion matrix shows high classification accuracy across most fault types,
 
 ---
 
+## 🌍 Real-World Application
+
+This system can be used in:
+
+- Smart grids for automatic fault detection  
+- Substations for monitoring phase imbalance  
+- Industrial power systems for predictive maintenance  
+
+ ---
+ 
 ## 📂 Project Structure
 
 
